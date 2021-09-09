@@ -1,0 +1,79 @@
+*{
+    margin:0;
+}
+
+body{
+    background:rgba(188, 188, 201, 0.329);
+   
+}
+
+h1{
+    text-align: center;
+    background-color:white;
+
+padding: 20px;
+   
+}
+
+
+.posters{
+    padding-left: 400px;
+    padding-right: 400px;
+    margin-top: 40px;
+}
+
+.cabezauno {
+    background: white;
+    display: flex;
+    padding:10px;
+    width: auto;
+    height: auto;
+    
+}
+
+.textouno {
+    margin-right: auto;
+}
+
+.pag {
+    color:rgb(207, 199, 199);
+}
+
+img {
+    width: 100%;
+    
+}
+
+p {
+    background: white;
+    margin:auto;
+    padding:20px;
+  
+}
+
+.cabezados {
+    background: white;
+    display: flex;
+    padding:10px;
+    margin-top: 40px;
+    width: auto;
+    height: auto;
+}
+
+.textodos {
+    margin-right: auto;
+}
+
+.cabezatres {
+    background: white;
+    display: flex;
+    padding:10px;
+    margin-top: 40px;
+    width: auto;
+    height: auto;
+}
+
+.textotres {
+    margin-right: auto;
+}
+
